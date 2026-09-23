@@ -5,4 +5,4 @@
 - 24521492 Le Van Quy
 
 I am beginning to understand Git
-Added new line from branch feature
+Added new line from branch master
